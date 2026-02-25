@@ -3,13 +3,11 @@
 Welcome to my development log.
 
 ## About
-Game Developer  
-Backend Developer  
-Currently learning Java daily.
+SMU Computer Science 
 
-## Projects
+<!-- ## Projects
 - Java Daily Practice
 - Unity Fusion Project
 
 ## Logs
-More coming soon.
+More coming soon. -->
